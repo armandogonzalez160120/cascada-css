@@ -1,8 +1,21 @@
+/*
 p {
-  color: red;
+    color: red;
 }
 
 p {
-  color: blue !important;
+    color: blue !important;
+}
+*/
+
+/*parte B*/
+@layer base, componentes;
+
+@layer base {
+    .mensaje { color: blue; }
+}
+
+@layer componentes {
+    .mensaje { color: green; }
 }
 
