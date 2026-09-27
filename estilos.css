@@ -27,10 +27,18 @@ p { color: blue; }
 
 */
 
-/* Parte C2 */
+/* Parte C2 
 #aviso { color: red; }
 
 .mensaje { color: green; }
 
 p { color: blue; }
 
+*/
+
+/* Parte C3 */
+.mensaje { color: blue; }
+
+article .mensaje { color: green; }
+
+main article .mensaje { color: red; }
