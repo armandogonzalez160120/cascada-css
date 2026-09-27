@@ -59,7 +59,7 @@ main article .mensaje { color: red; }*/
 
 .mensaje { color: red; }*/
 
-/* Reto integrador */
+/* Reto integrador 
 p { color: gray; }
 
 .mensaje { color: blue; }
@@ -72,4 +72,17 @@ article .mensaje { color: orange; }
 
 .importante {
   color: purple !important;
-}
+}*/
+
+/* Reto de depuracion */
+p { color: gray; }
+
+.destacado { color: blue; }
+
+article p { color: green; }
+
+#texto { color: orange; }
+
+.contenedor article p { color: purple; }
+
+.destacado { color: red; }
