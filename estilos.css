@@ -36,9 +36,25 @@ p { color: blue; }
 
 */
 
-/* Parte C3 */
+/* Parte C3 
 .mensaje { color: blue; }
 
 article .mensaje { color: green; }
 
-main article .mensaje { color: red; }
+main article .mensaje { color: red; }*/
+
+/* Parte D 
+@scope (.panel) {
+    p { color: blue; }
+}
+
+@scope (.tarjeta) {
+    p { color: red; }
+}*/
+
+/* Parte E */
+.mensaje { color: red; }
+
+.mensaje { color: green; }
+
+.mensaje { color: blue; }
