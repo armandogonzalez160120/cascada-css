@@ -20,10 +20,17 @@ p {
 }
 */
 
-/* Parte C1 */
+/* Parte C1 
 .mensaje { color: green; }
 
 p { color: blue; }
 
+*/
 
+/* Parte C2 */
+#aviso { color: red; }
+
+.mensaje { color: green; }
+
+p { color: blue; }
 
