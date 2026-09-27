@@ -52,9 +52,20 @@ main article .mensaje { color: red; }*/
     p { color: red; }
 }*/
 
-/* Parte E */
+/* Parte E 
 .mensaje { color: blue; }
 
 .mensaje { color: green; }
 
-.mensaje { color: red; }
+.mensaje { color: red; }*/
+
+/* Reto integrador */
+p { color: gray; }
+
+.mensaje { color: blue; }
+
+.importante { color: green; }
+
+article .mensaje { color: orange; }
+
+#aviso { color: red; }
