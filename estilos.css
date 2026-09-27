@@ -9,7 +9,7 @@ p {
 */
 
 /*parte B*/
-@layer base, componentes;
+@layer  componentes, base;
 
 @layer base {
     .mensaje { color: blue; }
