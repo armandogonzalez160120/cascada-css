@@ -8,8 +8,8 @@ p {
 }
 */
 
-/*parte B*/
-@layer  componentes, base;
+/* Parte B
+@layer componentes, base;
 
 @layer base {
     .mensaje { color: blue; }
@@ -18,4 +18,12 @@ p {
 @layer componentes {
     .mensaje { color: green; }
 }
+*/
+
+/* Parte C1 */
+.mensaje { color: green; }
+
+p { color: blue; }
+
+
 
